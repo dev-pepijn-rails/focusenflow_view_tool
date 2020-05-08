@@ -7,15 +7,15 @@ Gem::Specification.new do |spec|
   spec.email         = ["Pepijn.vandevorst@gmail.com"]
 
   spec.summary       = %q{tool for creating view items, e.g. copyright for footer}
-  spec.homepage      = "www.focusenflow.nl"
+  spec.homepage      = "https://github.com/dev-pepijn-rails/focusenflow_view_tool"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/dev-pepijn-rails/focusenflow_view_tool"
+  spec.metadata["changelog_uri"] = "https://github.com/dev-pepijn-rails/focusenflow_view_tool/blob/master/changelog.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
